@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@volar/vue-language-plugin-pug": "^1.6.5",
+    "npm-check-updates": "^16.14.12",
+    "pug": "^3.0.2",
+    "sass": "^1.70.0",
+    "typescript": "^5.3.3",
+    "vitepress": "^1.0.0-rc.39"
+  },
+  "dependencies": {
+    "@gracious.tech/fetch-client": "^0.5.4",
+    "lodash-es": "^4.17.21"
+  }
+}
