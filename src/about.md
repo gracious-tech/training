@@ -16,9 +16,17 @@ The material is written from a Reformed Evangelical perspective.
 You can learn more about the importance of removing all copyright restrictions from ministry resources at [Let's copy, church](https://copy.church). You can also dive into the theology of free giving at [Selling Jesus](https://sellingjesus.org).
 
 
-## Initial author
+## Author
 
 Jon Here has served for many years as a pastor part-time and also some years as a missionary in south-east Asia. He founded [Gracious Tech](https://gracious.tech), an app development company that produces software for cross-cultural mission. He completed his MDiv at [Sydney Missionary & Bible College](https://www.smbc.edu.au/).
+
+### Acknowledgements
+
+Ideas for some of the material were inspired by the following:
+
+ - Concept of “strands” – Katoomba Christian Convention
+ - Kingdom framework – Graham Goldsworthy & Vaughn Roberts
+ - “Clowney Quadrilateral” diagram – Edmund Clowney
 
 
 ## Feedback
