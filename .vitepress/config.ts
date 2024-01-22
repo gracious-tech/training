@@ -8,18 +8,14 @@ export default defineConfig({
     cleanUrls: true,  // Don't force `.html` on urls
     outDir: 'dist',
     srcDir: 'src',
-    title: "Freely Giving Training",
-    description: "High quality biblical teaching that is free of cost and copyright.",
+    title: "Understanding Scripture",
+    description: "High quality training in exegesis and theology that is free of cost and copyright.",
     head: [
         ['link', {rel: 'icon', href: '/_assets/icon.png'}],
         // Make Twitter use a large image in its preview
         ['meta', {name: 'twitter:card', content: 'summary_large_image'}],
         // WARN WhatsApp requires a URL with domain included
         ['meta', {property: 'og:image', content: 'https://training.freely.giving/_assets/social.jpg'}],
-        ['link', {
-            rel: 'stylesheet',
-            href: "https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700",
-        }],
     ],
     vite: {
         publicDir: '_public',
@@ -37,8 +33,7 @@ export default defineConfig({
     themeConfig: {
         logo: '/_assets/icon.png',
         nav: [
-            {text: "Basic", link: '/basic'},
-            {text: "Advanced", link: '/advanced'},
+            {text: "Resources", link: '/basic'},
             {text: "About", link: '/about'},
         ],
     },

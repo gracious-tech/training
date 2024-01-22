@@ -1,0 +1,65 @@
+
+
+// Theme
+:root
+    // VitePress
+    --vp-home-hero-name-color: transparent
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #753775, #806100, #009aa2)
+    --vp-c-brand-1: var(--vp-c-yellow-1)
+    --vp-c-brand-2: var(--vp-c-yellow-2)
+    --vp-c-brand-3: var(--vp-c-yellow-3)
+    --vp-c-brand-soft: var(--vp-c-yellow-soft)
+    // Prevent VP from adding custom "Chinese Quotes" font family
+    // In some systems it will use a local font like SimHei for curly quotes with too much spacing
+    --vp-font-family-base: "Inter var", "Inter", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+
+
+// Customise VitePress
+
+
+.VPNavBarMenuLink.active
+    background-color: var(--vp-c-yellow-soft)
+html.dark .VPNavBarMenuLink.active
+    background-color: var(--vp-c-yellow-soft)
+
+
+.VPButton
+    &:hover
+        text-decoration: none !important
+
+
+
+
+// Don't show header anchors (most users won't understand them)
+.header-anchor
+    display: none
+
+
+.vp-doc
+
+    a
+        text-decoration: none
+        &:hover
+            text-decoration: underline
+
+
+    img
+        border-radius: 12px
+
+
+
+
+
+// Generic
+
+html
+    overflow-wrap: break-word  // Break when needed (expand container to its limit first though)
+
+iframe
+    border-style: none
+    border-radius: 12px
+    width: 100%
+    aspect-ratio: 16 / 9
+
+sup, sub
+    line-height: 0
