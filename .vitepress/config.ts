@@ -33,7 +33,8 @@ export default defineConfig({
     themeConfig: {
         logo: '/_assets/icon.png',
         nav: [
-            {text: "Resources", link: '/basic'},
+            {text: "Trainings", link: '/trainings'},
+            {text: "Diagrams", link: '/diagrams'},
             {text: "About", link: '/about'},
         ],
     },

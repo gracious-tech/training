@@ -7,8 +7,8 @@ hero:
     image:
         src: /_assets/icon.png
     actions:
-        -   link: /basic
-            text: View resources
+        -   link: /trainings
+            text: View trainings
             theme: brand
 features:
     -   title: Free

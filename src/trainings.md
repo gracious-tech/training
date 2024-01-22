@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 
 <style lang='sass' scoped>
 
@@ -15,9 +19,9 @@
 </style>
 
 
-# Resources
+# Trainings
 
-This training material is intended to equip all believers with basic skills in exegesis and theology, so they can gain a deeper and more accurate understanding of God's Word. It consists of three trainings that are intended to be completed in order:
+This training material is intended to equip all believers with basic skills in exegesis and theology, so they can gain a deeper and more accurate understanding of God's Word.
 
 <div class='trainings'>
     <a href='https://docs.google.com/presentation/d/1L2pT8TCJOGwZXutwUBj9uAJUwEZpZCfqIO0cqE--5mA' target='exegesis'>
@@ -34,14 +38,19 @@ This training material is intended to equip all believers with basic skills in e
     </a>
 </div>
 
+<div style='text-align:center;margin-top: 36px;'>
+    <VPButton text="View all files" size='big' href="https://drive.google.com/drive/folders/183LxqHU5b7bVLiKhT8G6uu1wa4tDOB43" />
+</div>
 
-Each training is most commonly taught over six sessions (approximately 2 hours each), with a small group of participants (e.g. 5-10 people). However, it can easily be adapted for other scenarios, such as one-to-one or classroom settings.
+
+## Normal use
+
+Each training is normally taught over six sessions (approximately 2 hours each), with a small group of participants (e.g. 5-10 people). However, it can easily be adapted for other scenarios, such as one-to-one or classroom settings.
+
+They are intended to be completed in order, as they build upon each other.
 
 Most of the content is contained within the 3 Google Slide files, one for each topic. We also provide lots of additional resources, such as templates and the original source files for graphics.
 
-<div style='text-align:center;'>
-    <VPButton text="View all files" size='big' href="https://drive.google.com/drive/folders/183LxqHU5b7bVLiKhT8G6uu1wa4tDOB43" />
-</div>
 
 ## Adapting
 
@@ -52,20 +61,3 @@ All resources are completely free of copyright and [dedicated to the public doma
 Adapting the material to your own situation is highly encouraged. You may modify it in any way you would like. Simply make a copy of the files to your own Google Drive and you'll be able to edit them.
 
 Please do apply your own church or conference branding to it. There is no need to acknowledge the original material, though it may be helpful to link to it somewhere so others know they can use it themselves as well.
-
-
-## Diagrams
-
-The following diagrams were created for the trainings, and there sources files can be downloaded and modified.
-
-<p><a href='/_assets/diagrams/kingdoms_full.png' target='_blank'>
-    <img src='/_assets/diagrams/kingdoms_full.png' style='width: 100%'>
-</a></p>
-
-<p><a href='/_assets/diagrams/old_testament.png' target='_blank'>
-    <img src='/_assets/diagrams/old_testament.png' style='width: 100%'>
-</a></p>
-
-<p><a href='/_assets/diagrams/covenants.png' target='_blank'>
-    <img src='/_assets/diagrams/covenants.png' style='width: 100%'>
-</a></p>
