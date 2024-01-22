@@ -3,6 +3,11 @@ aside: false
 ---
 
 
+<script lang='ts' setup>
+import {files_url} from './_comp/settings.ts'
+</script>
+
+
 <style lang='sass' scoped>
 
 .trainings
@@ -15,6 +20,7 @@ aside: false
         img
             margin-right: 24px
             width: 64px
+            height: 64px
 
 </style>
 
@@ -25,21 +31,21 @@ This training material is intended to equip all believers with basic skills in e
 
 <div class='trainings'>
     <a href='https://docs.google.com/presentation/d/1L2pT8TCJOGwZXutwUBj9uAJUwEZpZCfqIO0cqE--5mA' target='exegesis'>
-        <img src='/_assets/icon_exegesis.png' width=80 />
+        <img src='/_assets/icon_exegesis.png' />
         Exegesis
     </a>
     <a href='https://docs.google.com/presentation/d/1D-TewvpDSX9A0prNk8cM3mshwhRROE8lAWURS_Lhu0A' target='biblical'>
-        <img src='/_assets/icon_biblical.png' width=80 />
+        <img src='/_assets/icon_biblical.png' />
         Biblical Theology
     </a>
     <a href='https://docs.google.com/presentation/d/14Lq29jm-cebQZn6l8SPXXGS4T8CbcsI1mckerYah_i0' target='systematic'>
-        <img src='/_assets/icon_systematic.png' width=80 />
+        <img src='/_assets/icon_systematic.png' />
         Systematic Theology
     </a>
 </div>
 
 <div style='text-align:center;margin-top: 36px;'>
-    <VPButton text="View all files" size='big' href="https://drive.google.com/drive/folders/183LxqHU5b7bVLiKhT8G6uu1wa4tDOB43" />
+    <VPButton text="View all files" size='big' :href="files_url" />
 </div>
 
 
