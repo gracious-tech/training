@@ -22,9 +22,9 @@ Jon Here has served for many years as a pastor part-time and also some years as 
 
 ### Acknowledgements
 
-Ideas for some of the material were inspired by the following:
+The following concepts have been used or adapted:
 
- - Concept of “strands” – Katoomba Christian Convention
+ - The three training "strands" – Katoomba Christian Convention
  - Kingdom framework – Graham Goldsworthy & Vaughn Roberts
  - “Clowney Quadrilateral” diagram – Edmund Clowney
 
