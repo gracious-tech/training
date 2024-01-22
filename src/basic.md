@@ -20,15 +20,15 @@
 This training material is intended to equip all believers with basic skills in exegesis and theology, so they can gain a deeper and more accurate understanding of God's Word. It consists of three trainings that are intended to be completed in order:
 
 <div class='trainings'>
-    <a href='https://docs.google.com/presentation/d/1L2pT8TCJOGwZXutwUBj9uAJUwEZpZCfqIO0cqE--5mA'>
+    <a href='https://docs.google.com/presentation/d/1L2pT8TCJOGwZXutwUBj9uAJUwEZpZCfqIO0cqE--5mA' target='exegesis'>
         <img src='/_assets/icon_exegesis.png' width=80 />
         Exegesis
     </a>
-    <a href='https://docs.google.com/presentation/d/1D-TewvpDSX9A0prNk8cM3mshwhRROE8lAWURS_Lhu0A'>
+    <a href='https://docs.google.com/presentation/d/1D-TewvpDSX9A0prNk8cM3mshwhRROE8lAWURS_Lhu0A' target='biblical'>
         <img src='/_assets/icon_biblical.png' width=80 />
         Biblical Theology
     </a>
-    <a href='https://docs.google.com/presentation/d/14Lq29jm-cebQZn6l8SPXXGS4T8CbcsI1mckerYah_i0'>
+    <a href='https://docs.google.com/presentation/d/14Lq29jm-cebQZn6l8SPXXGS4T8CbcsI1mckerYah_i0' target='systematic'>
         <img src='/_assets/icon_systematic.png' width=80 />
         Systematic Theology
     </a>
@@ -58,8 +58,14 @@ Please do apply your own church or conference branding to it. There is no need t
 
 The following diagrams were created for the trainings, and there sources files can be downloaded and modified.
 
-<p><img src='/_assets/diagrams/kingdoms_full.png' style='width: 100%'></p>
+<p><a href='/_assets/diagrams/kingdoms_full.png' target='_blank'>
+    <img src='/_assets/diagrams/kingdoms_full.png' style='width: 100%'>
+</a></p>
 
-<p><img src='/_assets/diagrams/old_testament.png' style='width: 100%'></p>
+<p><a href='/_assets/diagrams/old_testament.png' target='_blank'>
+    <img src='/_assets/diagrams/old_testament.png' style='width: 100%'>
+</a></p>
 
-<p><img src='/_assets/diagrams/covenants.png' style='width: 100%'></p>
+<p><a href='/_assets/diagrams/covenants.png' target='_blank'>
+    <img src='/_assets/diagrams/covenants.png' style='width: 100%'>
+</a></p>
