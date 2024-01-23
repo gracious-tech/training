@@ -51,11 +51,11 @@ This training material is intended to equip all believers with basic skills in e
 
 ## Normal use
 
-Each training is normally taught over six sessions (approximately 2 hours each), with a small group of participants (e.g. 5-10 people). However, it can easily be adapted for other scenarios, such as one-to-one or classroom settings.
-
-They are intended to be completed in order, as they build upon each other.
+Each training is normally taught over six sessions (approximately 2 hours each), with a small group of participants (e.g. 5-10 people). However, it can easily be adapted for other scenarios, such as one-to-one or classroom settings. They are intended to be completed in order, as they build upon each other.
 
 Most of the content is contained within the 3 Google Slide files, one for each topic. We also provide lots of additional resources, such as templates and the original source files for graphics.
+
+There are extensive leader notes attached to every slide that can be read while presenting or can be printed into a leader's booklet. Participants should also receive copies of the slides, either digitally or via a printed booklet.
 
 
 ## Adapting
