@@ -17,6 +17,11 @@ import {files_url} from './_comp/settings.ts'
         font-size: 24px
         padding: 12px 24px
 
+        &:nth-child(2)
+            color: #753775
+        &:nth-child(3)
+            color: #009aa2
+
         img
             margin-right: 24px
             width: 64px
