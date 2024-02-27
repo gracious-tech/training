@@ -97,4 +97,12 @@ All resources are completely free of copyright and [dedicated to the public doma
 
 Adapting the material to your own situation is highly encouraged. You may modify it in any way you would like. Simply make a copy of the files to your own Google Drive and you'll be able to edit them.
 
-Please do apply your own church or conference branding to it. There is no need to acknowledge the original material, though it may be helpful to link to it somewhere so others know they can use it themselves as well.
+To reproduce the PDFs of slides for participant booklets:
+
+ 1. [In Google Slides] File -> Print preview
+ 1. Change layout to "Handout - 2 slides per page"
+ 1. Change orientation to "Portrait"
+ 1. Enable "Hide background" and disable "Include skipped slides"
+ 1. Download as PDF
+
+Please _do_ apply your own church or conference branding to it. There is no need to acknowledge the original material, though it may be helpful to link to it somewhere so others know they can use it themselves as well.
