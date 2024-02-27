@@ -24,7 +24,7 @@ import {files_url} from './_comp/settings.ts'
 table
     th
         width: 50%
-    th a
+    th:first-child a
         font-size: 18px
         font-weight: bold
 
@@ -46,7 +46,7 @@ This training material is intended to equip all believers with basic skills in e
 
 <h3 class='exegesis'><img src='/_assets/icon_exegesis.png' /> Exegesis</h3>
 
-[Exegesis Slides](https://docs.google.com/presentation/d/1L2pT8TCJOGwZXutwUBj9uAJUwEZpZCfqIO0cqE--5mA) | The main training content. These should also be provided to participants digitally or printed as a booklet.
+[Exegesis Slides](https://docs.google.com/presentation/d/1L2pT8TCJOGwZXutwUBj9uAJUwEZpZCfqIO0cqE--5mA) | The main training content. These should also be provided to participants digitally or printed as a booklet ([participants](https://drive.google.com/file/d/18WK1n_-HUBC3JbOp8HLi8a2gBkGIEarE/view?usp=drive_link), [leaders](https://drive.google.com/file/d/1kdcRXoitokzHMgZ84xSkHmDgI8h3-bB7/view?usp=drive_link)).
 | - | - |
 [Passage - Luke 10](https://docs.google.com/document/d/1sHANsT3jGrCtv1qsnymcxSOnS3E6qGG6vQY5lCdqCnI/edit?usp=drive_link) | The passage to be studied as a group, to be printed for each participant.
 [Passage - Luke 12 & 1 Cor 12](https://docs.google.com/document/d/1sGex7ujIpD5CKN7bRG6QIja54xQ-B2hBY8CmZ3uNqZY/edit?usp=drive_link) | The two passages participants can choose between for individual study. Print out double-sided and let them chose the one they prefer.
@@ -55,7 +55,7 @@ This training material is intended to equip all believers with basic skills in e
 
 <h3 class='biblical'><img src='/_assets/icon_biblical.png' /> Biblical Theology</h3>
 
-[Biblical Theology Slides](https://docs.google.com/presentation/d/1D-TewvpDSX9A0prNk8cM3mshwhRROE8lAWURS_Lhu0A) | The main training content. These should also be provided to participants digitally or printed as a booklet.
+[Biblical Theology Slides](https://docs.google.com/presentation/d/1D-TewvpDSX9A0prNk8cM3mshwhRROE8lAWURS_Lhu0A) | The main training content. These should also be provided to participants digitally or printed as a booklet ([participants](https://drive.google.com/file/d/1KXA2MMSfipzhEnmhRTl6Ab6wNtzmeV75/view?usp=drive_link), [leaders](https://drive.google.com/file/d/16bT9Uyhv3DIaU0boUrXs9gJOkwvnk7BH/view?usp=drive_link)).
 | - | - |
 [Passage - Joshua 6](https://docs.google.com/document/d/1GsIQxA28bjfE6rbgYtxtAI1RKntNYi4xgs5dQs3d9Q0/edit?usp=drive_link) | The passage to be studied as a group, to be printed for each participant.
 [Passage - 1 Samuel 8 & Jeremiah 29](https://docs.google.com/document/d/1KTZNcl7kL1eHXpFI-Uul5gxvObi-a4zYrLVz8X5Pkr0/edit?usp=drive_link) | The two passages participants can choose between for individual study. Print out double-sided and let them chose the one they prefer.
@@ -68,7 +68,7 @@ This training material is intended to equip all believers with basic skills in e
 
 <h3 class='systematic'><img src='/_assets/icon_systematic.png' /> Systematic Theology</h3>
 
-[Systematic Theology Slides](https://docs.google.com/presentation/d/14Lq29jm-cebQZn6l8SPXXGS4T8CbcsI1mckerYah_i0) | The main training content. These should also be provided to participants digitally or printed as a booklet.
+[Systematic Theology Slides](https://docs.google.com/presentation/d/14Lq29jm-cebQZn6l8SPXXGS4T8CbcsI1mckerYah_i0) | The main training content. These should also be provided to participants digitally or printed as a booklet ([participants](https://drive.google.com/file/d/1pJsn3mRpnqmzZ86DAKH_Z-HV-xLYuQXC/view?usp=drive_link), [leaders](https://drive.google.com/file/d/1BeaXni4BWEVbyoFYwGyqlKBh3WdzWzbx/view?usp=drive_link)).
 | - | - |
 [Passage - Matt 18](https://docs.google.com/document/d/1KX47HWmI8zKwJtVMSVl_1faJ1vtStRh34TWA89GtNuY/edit?usp=drive_link) | A passage that will be studied as a group, to be printed for each participant.
 [Example outline (rebuke)](https://docs.google.com/document/d/18jhcs_c1zL3KTKUwJps7TtbOCyYh4XTOcgVwCS3QpDw/edit?usp=drive_link) | Required for Part 3. An example of a scriptural outline of the topic for group research. Print a copy for each participant.
