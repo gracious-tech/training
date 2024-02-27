@@ -69,7 +69,7 @@ This training material is intended to equip all believers with basic skills in e
 
 [Systematic Theology Slides](https://docs.google.com/presentation/d/14Lq29jm-cebQZn6l8SPXXGS4T8CbcsI1mckerYah_i0) | The main training content. These should also be provided to participants digitally or printed as a booklet.
 | - | - |
-[Scriptural outline (rebuke)](https://docs.google.com/document/d/18jhcs_c1zL3KTKUwJps7TtbOCyYh4XTOcgVwCS3QpDw/edit?usp=drive_link) | Required for Part 3. An example of a systematic outline of the topic for group research. Print a copy for each participant.
+[Example outline (rebuke)](https://docs.google.com/document/d/18jhcs_c1zL3KTKUwJps7TtbOCyYh4XTOcgVwCS3QpDw/edit?usp=drive_link) | Required for Part 3. An example of a systematic outline of the topic for group research. Print a copy for each participant.
 [Topical study/talk template](https://docs.google.com/document/d/1uK0N47TiLALc5S8gh2NS2NrvbqwoVtuhYl6XwQ9NewE/edit?usp=drive_link) | Required for Part 4. Blank template for writing a topical study or talk. Print double-sided and let participants chose which they prefer.
 [Example study/talk (rebuke)](https://docs.google.com/document/d/1kLZIEPCGCCg_42Ww89lxpeAZUggzcvjtTGrrh82b_EE/edit?usp=drive_link) | Required for Part 4. An example study/talk on the topic studied as a group.
 
