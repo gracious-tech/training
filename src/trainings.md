@@ -63,6 +63,7 @@ This training material is intended to equip all believers with basic skills in e
 [Diagrams sheet](https://docs.google.com/document/d/1Fp97KQyj8Lpod3552ATzdjDcx2NmPFTxc9ES2n-mZa4/edit?usp=drive_link) | Required for Part 3. Print one for each participant.
 [Study/talk template](https://docs.google.com/document/d/12Wvz-YD1NTZG5zMbN2Ew0Dg88wKPmMLxp6oo2BqkanA/edit?usp=drive_link) | Required for Part 4. Blank template for writing a study or talk. Print double-sided and let participants chose which they prefer.
 [Example study/talk (Joshua 6)](https://docs.google.com/document/d/1_6wYCP9Iz1M487H8srHYLAFjGyW7dllsZo7N1cGy9Rc/edit?usp=drive_link) | Required for Part 4. An example study/talk on the passage studied as a group.
+[Exegesis quick reference](https://docs.google.com/document/d/1sc49jsAR84jEorHG1qDNn8NgAQ_3daa8oMdeVyGiJWU/edit?usp=drive_link) | Required for Part 4. A quick summary of the principles of exegesis for participants to reference while they work on their study/talk.
 
 
 <h3 class='systematic'><img src='/_assets/icon_systematic.png' /> Systematic Theology</h3>
@@ -73,6 +74,7 @@ This training material is intended to equip all believers with basic skills in e
 [Example outline (rebuke)](https://docs.google.com/document/d/18jhcs_c1zL3KTKUwJps7TtbOCyYh4XTOcgVwCS3QpDw/edit?usp=drive_link) | Required for Part 3. An example of a scriptural outline of the topic for group research. Print a copy for each participant.
 [Topical study/talk template](https://docs.google.com/document/d/1uK0N47TiLALc5S8gh2NS2NrvbqwoVtuhYl6XwQ9NewE/edit?usp=drive_link) | Required for Part 4. Blank template for writing a topical study or talk. Print double-sided and let participants chose which they prefer.
 [Example study/talk (rebuke)](https://docs.google.com/document/d/1kLZIEPCGCCg_42Ww89lxpeAZUggzcvjtTGrrh82b_EE/edit?usp=drive_link) | Required for Part 4. An example study/talk on the topic studied as a group.
+[Exegesis quick reference](https://docs.google.com/document/d/1sc49jsAR84jEorHG1qDNn8NgAQ_3daa8oMdeVyGiJWU/edit?usp=drive_link) | Required for Part 4. A quick summary of the principles of exegesis for participants to reference while they work on their study/talk.
 
 
 <div style='text-align:center;margin-top: 36px;'>
