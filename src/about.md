@@ -13,6 +13,10 @@ This training was first developed in 2024 for a conference in Sydney, Australia.
 
 The material is written from a Reformed Evangelical perspective. The [Berean Standard Bible](https://bereanbibles.com/about-berean-study-bible/) (BSB) is used for quotations of Scripture since it is high quality and [non-commercial](https://sellingjesus.org/articles/bible-publishers).
 
+All resources are completely free of copyright and [dedicated to the public domain](https://copy.church/free).
+
+[![Public domain](https://copy.church/badges/subtle/alt/free.svg)](https://copy.church/free)
+
 You can learn more about the importance of removing all copyright restrictions from ministry resources at [Let's copy, church](https://copy.church). You can also dive into the theology of free giving at [Selling Jesus](https://sellingjesus.org).
 
 
