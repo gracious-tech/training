@@ -61,7 +61,7 @@ This training material is intended to equip all believers with basic skills in e
 [Passage - 1 Samuel 8 & Jeremiah 29](https://docs.google.com/document/d/1KTZNcl7kL1eHXpFI-Uul5gxvObi-a4zYrLVz8X5Pkr0/edit?usp=drive_link) | The two passages participants can choose between for individual study. Print out double-sided and let them chose the one they prefer.
 [Bible events activity](https://docs.google.com/document/d/10xrKoZvJ5ZRlWSSr5bQ7Z-HXQXk86QfLTWR9_FfMLbg/edit?usp=drive_link) | Required for Part 3. Print one for each participant.
 [Diagrams sheet](https://docs.google.com/document/d/1Fp97KQyj8Lpod3552ATzdjDcx2NmPFTxc9ES2n-mZa4/edit?usp=drive_link) | Required for Part 3. Print one for each participant.
-[Study/talk template](https://docs.google.com/document/d/11mITU9AnFUQ9uOYlXu0l7gUWofa2tdK6PDTYjhSR2aU/edit?usp=drive_link) | Required for Part 4. Blank template for writing a study or talk. Print double-sided and let participants chose which they prefer.
+[Study/talk template](https://docs.google.com/document/d/12Wvz-YD1NTZG5zMbN2Ew0Dg88wKPmMLxp6oo2BqkanA/edit?usp=drive_link) | Required for Part 4. Blank template for writing a study or talk. Print double-sided and let participants chose which they prefer.
 [Example study/talk (Joshua 6)](https://docs.google.com/document/d/1_6wYCP9Iz1M487H8srHYLAFjGyW7dllsZo7N1cGy9Rc/edit?usp=drive_link) | Required for Part 4. An example study/talk on the passage studied as a group.
 
 
