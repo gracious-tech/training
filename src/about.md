@@ -11,7 +11,7 @@ This training was first developed in 2024 for a conference in Sydney, Australia.
  - Easy to adapt -- All source files are provided and are easily editable
  - Easy to translate -- Western metaphors have been avoided as much as possible
 
-The material is written from a Reformed Evangelical perspective.
+The material is written from a Reformed Evangelical perspective. The [Berean Standard Bible](https://bereanbibles.com/about-berean-study-bible/) (BSB) is used for quotations of Scripture since it is high quality and [non-commercial](https://sellingjesus.org/articles/bible-publishers).
 
 You can learn more about the importance of removing all copyright restrictions from ministry resources at [Let's copy, church](https://copy.church). You can also dive into the theology of free giving at [Selling Jesus](https://sellingjesus.org).
 
