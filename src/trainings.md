@@ -55,7 +55,7 @@ This training material is intended to equip all believers with basic skills in e
 
 <h3 class='biblical'><img src='/_assets/icon_biblical.png' /> Biblical Theology</h3>
 
-[Biblical Theology Slides](https://docs.google.com/presentation/d/1D-TewvpDSX9A0prNk8cM3mshwhRROE8lAWURS_Lhu0A) | The main training content. These should also be provided to participants digitally or printed as a booklet ([participants](https://drive.google.com/file/d/1KXA2MMSfipzhEnmhRTl6Ab6wNtzmeV75/view?usp=drive_link), [leaders](https://drive.google.com/file/d/16bT9Uyhv3DIaU0boUrXs9gJOkwvnk7BH/view?usp=drive_link)).
+[Biblical Theology Slides](https://docs.google.com/presentation/d/1D-TewvpDSX9A0prNk8cM3mshwhRROE8lAWURS_Lhu0A) | The main training content. These should also be provided to participants digitally or printed as a booklet ([participants](https://drive.google.com/file/d/1xlZw6UvttzOro--dp5dRJQkGhgraPkqN/view?usp=drive_link), [leaders](https://drive.google.com/file/d/1PSJvepapPAV35fEazQbH9r6Pl2-S_w5N/view?usp=drive_link)).
 | - | - |
 [Passage - Joshua 6](https://docs.google.com/document/d/1GsIQxA28bjfE6rbgYtxtAI1RKntNYi4xgs5dQs3d9Q0/edit?usp=drive_link) | The passage to be studied as a group, to be printed for each participant.
 [Passage - 1 Samuel 8 & Jeremiah 29](https://docs.google.com/document/d/1KTZNcl7kL1eHXpFI-Uul5gxvObi-a4zYrLVz8X5Pkr0/edit?usp=drive_link) | The two passages participants can choose between for individual study. Print out double-sided and let them chose the one they prefer.
